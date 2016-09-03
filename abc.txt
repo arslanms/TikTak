@@ -1,1 +1,10 @@
 This is just a test text file to see if the command line works.
+Some commands to follow:
+git init: makes the directory I am in connected to git.
+git add -A: adds all new changes
+git commit -m "": commits the changes, put a message in the quotes.
+git remote add origin master $link$: associates this directory with
+the repository found in $link$
+git push -u origin master: pushes all commits/changes
+git config --global user.name "": changes username of account
+git config --global user.email "": changes email of account  
